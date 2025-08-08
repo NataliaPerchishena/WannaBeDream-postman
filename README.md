@@ -27,6 +27,7 @@ To be able to run tests and view the report in your GitHub Pages, do the followi
 
 1. Fork the repository
    Click the "Fork" button in the upper right corner → select your GitHub profile or organization.
+   !Important: uncheck "only the main branch". The report is created on a separate gh-pages branch
 
 2. Enable Actions
 
